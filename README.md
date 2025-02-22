@@ -19,5 +19,8 @@ Features include total emissions, per capita emissions, energy consumption, and 
 ✅ Heatmaps & Visualizations: To interpret the clustering results and compare nations.
 # Results & Insights
 Countries with high emissions tend to have strong industrial activities and higher GDP.
+
 Low-emission clusters include smaller economies and island nations with lower industrialization.
+
+PCA reduced dimensions from X to Y, helping visualize clusters more effectively
 
